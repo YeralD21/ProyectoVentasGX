@@ -1,0 +1,2 @@
+# ProyectoVentasGX
+Examen 
